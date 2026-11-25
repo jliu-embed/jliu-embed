@@ -1,21 +1,18 @@
-# Hi, I'm Jack Liu 👋
+# Hi, I'm Jack 👋
 
-## Embedded Software Full-Stack Developer
+## Embedded Software Architect & Engineer
 
-Specializing in **embedded software architecture** and full-stack development. Building robust embedded solutions from low-level drivers to high-level application interfaces.
+Specializing in **embedded software architecture and full-stack development**, with extensive experience designing and building complex embedded systems — from low-level drivers and system middleware to networking stacks and high-level application interfaces.
 
 ### Technical Expertise
-- **Embedded Systems**: Linux, RTOS, ARM/x86 Architecture
-- **Embedded Software Architecture**: System design, module decomposition, interface standardization
-- **Frameworks & Tools**: Qt, TCP/IP, Socket Programming
-- **Networking**: Ethernet, IPTV, WiFi, Optical Communication
-- **Protocols**: Deep understanding of various communication protocols
 
-### Projects
-- [RTOS](https://github.com/jliu-embed/rtos) - Lightweight RTOS kernel for x86
-- [tcpq](https://github.com/jliu-embed/tcpq) - Qt-based network packet analyzer
-- [qneter](https://github.com/jliu-embed) - Network testing toolkit
-- [ezproject](https://github.com/jliu-embed/ezproject) - Project scaffolding tool
+- **Embedded Systems:** Embedded Linux, system-level software development
+- **Software Architecture:** System architecture, module decomposition, interface design, and platform integration
+- **Programming & Frameworks:** C++, Qt, TCP/IP, Socket Programming
+- **Networking & Communication:** Ethernet, Wi-Fi, Optical Communication
+- **Protocol Engineering:** Communication protocols, network stack analysis, and cross-layer integration
+- **System Integration:** Multi-module integration, performance optimization, and product-level software engineering
 
 ---
-*Skilled in delivering scalable, production-ready embedded systems*
+
+Bringing together deep system-level knowledge and broad application-layer experience to design, integrate, and deliver **scalable, reliable, and production-ready embedded software solutions**.
